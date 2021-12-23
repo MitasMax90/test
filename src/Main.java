@@ -11,6 +11,7 @@ public class Main {
         plane1.fillFuel();
         plane1.flyDown(100,10);
         plane1.fillFuel();
+        plane1.fillFuel();
     }
 }
 
