@@ -4,6 +4,13 @@ public class Cat {
      String name;
      int age;
      String color;
+    String color2;
+    String color3;
+    String color4;
+    String color5;
+    String color6;
+    String color7;
+
 
     public Cat() {
         this(3000,"BArsik",3,"Gray");

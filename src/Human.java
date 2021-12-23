@@ -4,6 +4,9 @@ public class Human {
     int weight;
     String address;
     String work;
+    String shop;
+    String favoriteFood;
+    String favoriteFilm;
 
 
     public Human(String name, int age) {
