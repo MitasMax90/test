@@ -7,6 +7,7 @@ public class Human {
     String shop;
     String favoriteFood;
     String favoriteFilm;
+    String favoriteFilm222;
 
 
     public Human(String name, int age) {
